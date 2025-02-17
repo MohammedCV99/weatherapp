@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weatherapp/Core/Routes/App_Routes.dart';
-import 'package:weatherapp/Core/SL/SL.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
